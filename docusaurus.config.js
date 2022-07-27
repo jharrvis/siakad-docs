@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -60,16 +60,16 @@ const config = {
         title: 'SIAKAD STIEAMA',
         logo: {
           alt: 'Dokumentasi SIAKAD STIEAMA',
-          src: 'img/logo.svg',
+          src: 'img/logo-ama.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Dokumentasi',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Update', position: 'left'},
           {
             href: 'https://github.com/jharrvis/siakad-docs',
             label: 'GitHub',

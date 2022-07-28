@@ -3,7 +3,7 @@ id: cara-login
 slug: /cara-login-siakad
 ---
 
-# Login
+# Cara Login
 
 ## Cara Login ke SIAKAD (Mahasiswa)
 

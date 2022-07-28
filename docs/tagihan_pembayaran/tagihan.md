@@ -1,7 +1,7 @@
 ---
 id: tagihan
 slug: /tagihan
-position: 1
+sidebar_position: 1
 ---
 
 # Cek Tagihan

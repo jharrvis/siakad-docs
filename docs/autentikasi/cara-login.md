@@ -17,12 +17,12 @@ URL : https://siakad.stieama.ac.id
 
 ![Halaman Login SIAKAD](./img/hal-login.jpg)
 
-> Masukan _nama pengguna_ dan _kata sandi_ kemudian klik Tombol Login [^1]
+> Masukan _nama pengguna_ berupa NIM dan _kata sandi_ kemudian klik Tombol Login [^1]
 
 :::caution Perhatian
 
-Username dan Password bisa didapatkan di bagian akademik.
-Setelah anda berhasil login menggunakan password default yang diberikan, Anda wajib [mengganti password](#ubah-password) dengan password baru yang anda ciptakan sendiri.
+Username (NIM) dan Password bisa didapatkan di bagian akademik.
+PENTING! Setelah anda berhasil login menggunakan password default yang diberikan, Anda wajib [mengganti password](#ubah-password) dengan password baru yang anda ciptakan sendiri.
 
 :::
 

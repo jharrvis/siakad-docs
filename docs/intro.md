@@ -9,7 +9,7 @@ sidebar_position: 1
 Sistem Informasi Akademik STIEAMA, merupakan sebuah Sistem Informasi berbasis web untuk membantu aktivitas di Sekolah Tinggi Ilmu Ekonomi AMA Salatiga, khususnya dalam hal kegiatan Akademik, Transaksi Pembayaran oleh
 Mahasiswa, Rencana Studi, Perwalian, Hasil Studi, Transkrip Nilai dan Data Umum Pegawai dan Dosen. Sistem ini dibangun dari kebutuhan pengolahan informasi dan data yang terpusat. Sehingga mempermudah akses, pengelolaan, dan validasi data.
 
-Pengguna Sistem Informasi Akdemik ini terdiri dari 3 Level Akses yaitu :
+Pengguna Sistem Informasi Akdemik ini terdiri dari 5 Level Akses yaitu :
 
 1. Super Admin
 2. Admin Akademik
@@ -17,13 +17,13 @@ Pengguna Sistem Informasi Akdemik ini terdiri dari 3 Level Akses yaitu :
 4. Dosen
 5. Mahasiswa
 
-## Menjalankan SIAkad
+## Menjalankan Siakad
 
-Sistem SIAkad STIEAMA adalah aplikasi berbasis web, untuk menjalankanya / mengaksesnya dibutuhkan komputer dengan koneksi internet serta aplikasi penjelajah internet / **internet browser**.
+Sistem SIAkad STIEAMA adalah aplikasi berbasis web, untuk menjalankanya / mengaksesnya dibutuhkan komputer dengan koneksi internet serta aplikasi penjelajah internet / _internet browser_.
 
 Spesifikasi komputer yang disarankan untuk menjalankan aplikasi ini adalah :
 
-1. Prosesor Intel Pentium Dual Core atau yang setara.
+1. Prosesor _Intel Pentium Dual Core_ atau yang setara.
 2. Memory RAM 4 GB.
 3. Koneksi internet.
 4. Terpasang aplikasi browser internet seperti Google Chrome, Mozilla Firefox, Opera, Microsoft Edge, Safari dapat dijalankan dengan lancar.

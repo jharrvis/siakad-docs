@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'SIAKAD STIEAMA',
         logo: {
-          alt: 'Dokumentasi SIAKAD STIEAMA',
+          alt: 'Panduan SIAKAD STIEAMA',
           src: 'img/logo-ama.png',
         },
         items: [
@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Dokumentasi',
+            label: 'Panduan',
           },
           {to: '/blog', label: 'Update', position: 'left'},
           {

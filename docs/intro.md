@@ -21,7 +21,7 @@ Pengguna Sistem Informasi Akdemik ini terdiri dari 5 Level Akses yaitu :
 
 Sistem SIAkad STIEAMA adalah aplikasi berbasis web, untuk menjalankanya / mengaksesnya dibutuhkan komputer dengan koneksi internet serta aplikasi penjelajah internet / _internet browser_.
 
-Spesifikasi komputer yang disarankan untuk menjalankan aplikasi ini adalah :
+Spesifikasi komputer minimum yang disarankan untuk menjalankan aplikasi ini adalah :
 
 1. Prosesor _Intel Pentium Dual Core_ atau yang setara.
 2. Memory RAM 4 GB.

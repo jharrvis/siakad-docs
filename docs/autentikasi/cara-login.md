@@ -35,7 +35,7 @@ Sebaiknya anda melakukan logout. Untuk melakukan logout, Silahkan klik pada pojo
 
 ## Lupa Password
 
-Untuk melakukan reset password ketika anda lupa Kata Sandi, bisa anda lakukan sendiri.
+Untuk melakukan reset Kata Sandi, bisa anda lakukan sendiri.
 ikuti langkah-langkah sebagai berikut :
 
 - klik _Lupa kata sandi Anda?_ pada halaman login

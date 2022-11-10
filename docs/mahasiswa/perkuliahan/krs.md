@@ -24,6 +24,10 @@ Berikut ini langkah-langkah untuk membuat KRS (Kartu Rencana Studi)
 - [Login](../../autentikasi/cara-login.md) ke SIAKAD
 - Masuk ke menu _**Perkulianan**_, dan pilih Sub Menu _**Rencana Studi**_
 
+Untuk lebih detail, bisa lihat video tutorial dibawah ini :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3pO1G4Yaho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Tips Membuat Rencana Studi
 
 ## Mengelola Rencana Studi

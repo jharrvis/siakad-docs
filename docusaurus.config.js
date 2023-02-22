@@ -84,43 +84,47 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'SIAKAD STIEAMA',
+                to: 'https://siakad.stieama.ac.id',
+              },
+              {
+                label: 'Panduan SIAKAD',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Link STIEAMA',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website STIEAMA',
+                href: 'https://stieama.ac.id',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'E-Learning STIEAMA',
+                href: 'https://elearning.stieama.ac.id',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Jurnal STIEAMA',
+                href: 'https://jurnal.stieama.ac.id',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Update',
             items: [
               {
-                label: 'Blog',
+                label: 'Log Update SIAKAD',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/jharrvis/siakad-docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} STIEAMA Built with Docusaurus.`,
+        copyright: `Hak Cipta © ${new Date().getFullYear()} STIEAMA - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

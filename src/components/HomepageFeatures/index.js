@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Kemudahan Administrasi',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Fitur Kemudahan Administrasi pada SIAKAD memungkinkan pengguna untuk mengelola administrasi mereka dengan mudah, seperti mengubah data pribadi, melihat jadwal perkuliahan, melihat tagihan biaya perkuliahan, dan melihat informasi akademik lainnya.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'KRS, Transkrip Nilai dan Kegiatan Perkuliahan',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Fitur KRS dan Transkrip Nilai pada SIAKAD memungkinkan pengguna untuk mengelola rencana studi mereka dengan lebih baik, seperti membuat rencana studi, menambah atau mengurangi mata kuliah, dan melihat nilai dari setiap mata kuliah yang telah diambil selama kuliah, serta melihat transkrip nilai mereka dari setiap semester.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Jadwal dan Kalender Akademik',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Fitur Pengaturan Jadwal pada SIAKAD memungkinkan pengguna untuk melihat jadwal kuliah mereka dan mengatur jadwal mereka dengan lebih baik, seperti mengetahui waktu, tempat, dan dosen pengajar yang bertanggung jawab atas mata kuliah tersebut, serta mengetahui informasi tentang hari libur nasional atau event nasional lainnya.
       </>
     ),
   },

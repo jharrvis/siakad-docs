@@ -14,3 +14,9 @@ Sedangkan fitur Jadwal Perkuliahan memungkinkan mahasiswa untuk melihat jadwal k
 Selain itu, fitur Jadwal Perkuliahan pada SIAKAD juga mencakup informasi tentang hari libur nasional atau event nasional lainnya, sehingga mahasiswa dapat memperkirakan jadwal kuliah mereka dengan lebih baik. Dengan fitur ini, mahasiswa juga dapat mengelola waktu mereka dengan lebih baik dan memastikan bahwa mereka tidak melewatkan kuliah yang penting.
 
 Secara keseluruhan, fitur Kalender Akademik dan Jadwal Perkuliahan pada SIAKAD sangat penting bagi mahasiswa untuk mengelola kegiatan akademik mereka. Dengan adanya fitur ini, mahasiswa dapat merencanakan dan mengatur jadwal mereka dengan lebih baik, sehingga dapat memaksimalkan pencapaian akademik mereka di institusi pendidikan tinggi.
+
+### Detail Event pada Kalender Akademik
+
+Untuk mengetahui detail event, Mahasiswa dapat klik pada tanggal yang ditandai untuk mengetahu detail dan keterangan event / jadwal perkuliahan.
+
+![Detail Event - Kalender Akademik](./img/kalender-detail-event.png)

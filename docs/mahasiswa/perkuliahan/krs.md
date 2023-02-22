@@ -30,7 +30,7 @@ Untuk lebih detail, bisa lihat video tutorial dibawah ini :
 
 ### Flowchart Siklus pembuatan KRS
 
-![Alur Pembuatan KRS](./img/krs-flowchart.png)
+![Alur Pembuatan KRS](./img/krs-flowchart.jpg)
 
 - Bag. Administrasi menerbitkan tagihan
 - Mahasiswa membayar tagihan biaya perkuliahan

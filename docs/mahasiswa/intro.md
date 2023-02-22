@@ -2,9 +2,15 @@
 sidebar_position: 1
 ---
 
-# Panduan SIAKAD STIEAMA untuk Mahasiswa
+# Pendahuluan
 
-## Pendahuluan
+## Download
+
+Panduan ini juga dapat di download dalam format PDF, klik link dibawah ini untuk mendownload :
+
+[Download Panduan Untuk Mahasiswa](./assets/BUKU MANUAL MAHASISWA - SIAKAD STIEAMA.pdf)
+
+## Panduan SIAKAD STIEAMA untuk Mahasiswa
 
 Sistem Informasi Akademik atau yang biasa disebut SIAKAD merupakan sebuah sistem yang sangat penting bagi setiap institusi pendidikan. Dalam era digital seperti sekarang ini, SIAKAD menjadi sarana yang tak bisa dihindari bagi mahasiswa dalam menjalankan aktivitas akademiknya. STIEAMA, sebuah institusi pendidikan tinggi di Indonesia, memiliki SIAKAD yang lengkap dan mudah digunakan oleh mahasiswa.
 

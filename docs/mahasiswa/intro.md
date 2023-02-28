@@ -6,9 +6,13 @@ sidebar_position: 1
 
 ## Download
 
+:::info Download PDF Format
+
 Panduan ini juga dapat di download dalam format PDF, klik link dibawah ini untuk mendownload :
 
 [Download Panduan Untuk Mahasiswa](./assets/buku-manual-mahasiswa-siakad-stieama.pdf)
+
+:::
 
 ## Panduan SIAKAD STIEAMA untuk Mahasiswa
 

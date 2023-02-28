@@ -7,7 +7,7 @@ slug: /perwalian
 
 ## Langkah Perwalian
 
-:::Download PDF Format
+:::info Download PDF Format
 
 Panduan ini juga dapat di download dalam format PDF, klik link dibawah ini untuk mendownload :
 

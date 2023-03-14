@@ -11,7 +11,7 @@ slug: /dosen
 
 Panduan ini juga dapat di download dalam format PDF, klik link dibawah ini untuk mendownload :
 
-[Download Panduan SIAKAD STIEAMA](../assets/buku-manual-siakad-stieama.pdf)
+[Download Panduan SIAKAD STIEAMA](../dosenwali/assets/buku-manual-siakad-stieama.pdf)
 
 :::
 

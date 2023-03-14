@@ -17,15 +17,16 @@ Panduan ini juga dapat di download dalam format PDF, klik link dibawah ini untuk
 
 Cara Input Nilai siakad.stieama.ac.id
 
-![Login Ke Website SIAKAD](./img/dosen-login.jpg)
-
 1. Login ke http://siakad.stieama.ac.id
-   ![Daftar Kelas yang di ampu dosen](./img/dosen-kelas-saya.jpg)
+   ![Login Ke Website SIAKAD](./img/dosen-login.jpg)
 2. Klik Menu Perkuliahan → Kelas Saya
-   ![Detail Kelas](./img/dosen-detail-kelas.jpg)
+   ![Daftar Kelas yang di ampu dosen](./img/dosen-kelas-saya.jpg)
 3. Klik tombol detail kelas pada untuk kelas yang akan input nilai
+   ![Detail Kelas](./img/dosen-detail-kelas.jpg)
 4. Klik tombol Nilai pada mahasiswa yang akan input nilai
+   ![Pilih Mahasiswa](./img/dosen-input-nilai.jpg)
 5. Masukkan nilai sesuai persentase masing-masing point penilaian, misal
+   ![Input Nilai Mahasiswa](./img/dosen-input-nilai-2.jpg)
 
 - Absensi : 20
 - Tugas: 10
